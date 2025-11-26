@@ -1,6 +1,6 @@
 # jogo-adivinhacao
 Jogo simples de adivinhação de número
-# Jogo de Adivinhação 🎯
+# Jogo de Adivinhação 
 
 Projeto simples em Python para demonstração ao professor.
 O usuário tenta adivinhar um número secreto escolhido pelo computador.
